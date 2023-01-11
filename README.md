@@ -1,3 +1,12 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+# <div align="center" >I'm Jakub Chorzępa, an aspiring front-end developer</div>
+
+</br>
+
 # 💫 About Me:
  🔭 I’m currently working on [Projectmate](https://github.com/rohitdasu/projectmate)  <br>🌱 I’m currently learning Algorithms and Data Structures <br>🎓 I am studying Data Engineering at Rzeszów University of Technology<br>⚡ Fun fact: I use linux 
 
